@@ -31,7 +31,6 @@ What the video shows: the assumption sheet, sourced market research, TAMâ€“SAMâ€
 
 ## Screenshots
 
-| Overview and market | Customers and competitors | Financials and decision |
 |---|---|---|
 | <img width="1035" height="771" alt="Dashboard_Slide1" src="https://github.com/user-attachments/assets/d3510a7e-c3d9-4cfc-8b30-ce6644c48d86" />
  | <img width="1035" height="570" alt="Dashboard_Slide2" src="https://github.com/user-attachments/assets/efaa376d-348c-47f9-b09d-6504aeafc144" />
