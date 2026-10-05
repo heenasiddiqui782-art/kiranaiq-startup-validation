@@ -5,7 +5,7 @@ A structured validation of one startup idea: **should it be launched, modified, 
 > **Status: Stage 1 – desk research complete. Customer evidence NOT yet collected.**
 > Interview and survey rows in the workbook are **DEMO DATA** (structure only, not real research). The current recommendation is **TEST FURTHER** by design, because fewer than 10 real interviews exist.
 
-![KiranaIQ validation dashboard]<img width="1035" height="2076" alt="Dashboard_Full_LinkedIn" src="https://github.com/user-attachments/assets/397af821-3de0-42e7-b925-82e7fa45464c" />
+[KiranaIQ validation dashboard]<img width="1035" height="2076" alt="Dashboard_Full_LinkedIn" src="https://github.com/user-attachments/assets/397af821-3de0-42e7-b925-82e7fa45464c" />
 
 
 *Dashboard overview. Survey charts use illustrative demo data.*
@@ -93,4 +93,3 @@ kiranaiq-startup-validation/
 ## Tools
 Excel, Google Forms (planned), web research, and AI assistance for drafting (all outputs to be verified).
 
-*Interviewee names and personal data must never be committed to this repository.*
