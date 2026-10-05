@@ -30,8 +30,6 @@ What the video shows: the assumption sheet, sourced market research, TAM–SAM�
 *We help kirana store owners in Tier 2–3 cities solve stock-outs and uncollected udhar through a Hindi WhatsApp AI assistant.*
 
 ## Screenshots
-
-|---|---|---|
 | <img width="1035" height="771" alt="Dashboard_Slide1" src="https://github.com/user-attachments/assets/d3510a7e-c3d9-4cfc-8b30-ce6644c48d86" />
  | <img width="1035" height="570" alt="Dashboard_Slide2" src="https://github.com/user-attachments/assets/efaa376d-348c-47f9-b09d-6504aeafc144" />
 | <img width="1035" height="735" alt="Dashboard_Slide3" src="https://github.com/user-attachments/assets/e023811f-0ca1-4a41-a946-2b385646aadf" />
